@@ -12,3 +12,4 @@ export const HEROES: Hero[] = [
 //criando uma constante heros com uma tipagem hero
 //mock usada para testes futuros
 //artigos de conteúdo para teste - criado fora a parte - volta um nível. 
+//mock ? dados de teste; 
